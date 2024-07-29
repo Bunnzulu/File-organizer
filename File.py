@@ -15,8 +15,6 @@ video_folder = r""
 image_folder = r""
 text_folder = r""
 
-#shutil.move(source, destination)
-
 
 for file in Files:
     index = file.find(".")
